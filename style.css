@@ -139,3 +139,31 @@ border-radius: 5px;
 .global{
     font-size: 50px;
 }
+
+
+.global-backimg{
+    background-image: url(/images/shape-2.png);
+    background-size: 300px;
+     
+    
+     background-position: right;
+
+    
+    background-repeat: no-repeat;
+}
+.fot{
+    color:white;
+    font-size: 25px;
+}
+.sa{
+    color:sienna;
+    font-size: 25px;
+}
+footer{ background-color: black; text-align: center;
+
+    padding-top: 2%;
+} 
+.white-color
+{
+    color: white;
+}
