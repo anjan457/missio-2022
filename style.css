@@ -103,7 +103,7 @@ font-size: 60px;
     width: 400px;
     height: auto;
     position: relative; top: -30px; 
-    padding-left: 40%;
+    padding-left: 200px;
 }
 .half-wi{
     width: 400px;
@@ -130,7 +130,12 @@ border-radius: 5px;
 {
     background-image: url(/images/shape-1.png);
     background-size: 300px;
-    
+     
+    padding-left: 40%;
+
     background-position: left;
     background-repeat: no-repeat;
+}
+.global{
+    font-size: 50px;
 }
