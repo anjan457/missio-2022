@@ -64,7 +64,7 @@ font-size: 60px;
 
 
 .mission-image{
-    background-image:url(/images/illustrator-1.png) ; 
+    background-image:url(./images/illustrator-1.png) ; 
     background-size: 150px;
     width: 500px;
     height: 150px;
@@ -74,7 +74,7 @@ font-size: 60px;
     
 }
 .vission-image{
-    background-image: url(/images/illustrator-2.png);
+    background-image: url(./images/illustrator-2.png);
     background-size: 150px;
     width: 500px;
     height: 150px;
@@ -84,7 +84,7 @@ font-size: 60px;
 
 }
 .goal-image{
-    background-image: url(/images/illustrator-3.png);
+    background-image: url(./images/illustrator-3.png);
     background-size: 150px;
     width: 500px;
     height: 150px;
@@ -128,7 +128,7 @@ border-radius: 5px;
 }
 .back-img
 {
-    background-image: url(/images/shape-1.png);
+    background-image: url(./images/shape-1.png);
     background-size: 300px;
      
     padding-left: 40%;
