@@ -28,8 +28,6 @@ font-size: 60px;
     height: auto;
     position: relative; top: -30px; 
     padding-left: 300px;
-    
-
 }
 
 .flexible-container{
@@ -94,4 +92,45 @@ font-size: 60px;
     background-repeat: no-repeat;
     background-color: rgba(210, 180, 140, 0.349);
 
+}
+.spa
+{
+    font-size: 50px;
+    display: block;
+}
+
+.deve-lop{
+    width: 400px;
+    height: auto;
+    position: relative; top: -30px; 
+    padding-left: 40%;
+}
+.half-wi{
+    width: 400px;
+    padding-left: 40%;
+    padding-right: 50%;
+    font-size: 50px;
+}
+.half{
+    width: 700px;
+    padding-left: 40%;
+    padding-right: 40%;
+}
+.link-butt
+{
+    text-decoration: none;
+background-color: rgba(255, 30, 0, 0.925);
+color: white;
+font-weight: 700;
+padding: 10px 30px;
+border-radius: 5px;
+
+}
+.back-img
+{
+    background-image: url(/images/shape-1.png);
+    background-size: 300px;
+    
+    background-position: left;
+    background-repeat: no-repeat;
 }
