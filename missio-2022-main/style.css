@@ -1,0 +1,169 @@
+.link-button{
+text-decoration: none;
+background-color: rgba(255, 30, 0, 0.925);
+color: white;
+font-weight: 700;
+padding: 10px 30px;
+border-radius: 5px;
+
+}
+
+.text-siz{
+font-size: 60px;
+}
+
+.mission-2022{
+    color:peru;
+    font-size: 60px;
+    
+}
+.half-width{
+    width: 40%;
+    padding-left: 4%;
+    padding-top: 100px;
+
+}
+.resize{
+    width: 400px;
+    height: auto;
+    position: relative; top: -30px; 
+    padding-left: 300px;
+}
+
+.flexible-container{
+    display: flex;
+}
+.bor-der{
+    margin-left: 0%;
+    border-left: 5px solid red;
+    border-radius: 1px;
+    
+
+}
+#al-center
+{
+    text-align: center;
+    font-size: 50px;
+}
+.flexible-contain{
+    display: flex;
+}
+.half-wid{
+    
+    width: 400px;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 300px;
+   
+   
+    margin-left: 2%;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+
+}
+
+
+.mission-image{
+    background-image:url(./images/illustrator-1.png) ; 
+    background-size: 150px;
+    width: 500px;
+    height: 150px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: rgba(135, 207, 235, 0.5);
+    
+}
+.vission-image{
+    background-image: url(./images/illustrator-2.png);
+    background-size: 150px;
+    width: 500px;
+    height: 150px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: rgba(112, 128, 144, 0.425);
+
+}
+.goal-image{
+    background-image: url(./images/illustrator-3.png);
+    background-size: 150px;
+    width: 500px;
+    height: 150px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: rgba(210, 180, 140, 0.349);
+
+}
+.spa
+{
+    font-size: 50px;
+    display: block;
+}
+
+.deve-lop{
+    width: 400px;
+    height: auto;
+    position: relative; top: -30px; 
+    padding-left: 200px;
+}
+.half-wi{
+    width: 400px;
+    padding-left: 40%;
+    padding-right: 50%;
+    font-size: 50px;
+}
+.half{
+    width: 700px;
+    padding-left: 40%;
+    padding-right: 40%;
+}
+.link-butt
+{
+    text-decoration: none;
+background-color: rgba(255, 30, 0, 0.925);
+color: white;
+font-weight: 700;
+padding: 10px 30px;
+border-radius: 5px;
+
+}
+.back-img
+{
+    background-image: url(./images/shape-1.png);
+    background-size: 300px;
+     
+    padding-left: 40%;
+
+    background-position: left;
+    background-repeat: no-repeat;
+}
+.global{
+    font-size: 50px;
+}
+
+
+.global-backimg{
+    background-image: url(/images/shape-2.png);
+    background-size: 300px;
+     
+    
+     background-position: right;
+
+    
+    background-repeat: no-repeat;
+}
+.fot{
+    color:white;
+    font-size: 25px;
+}
+.sa{
+    color:sienna;
+    font-size: 25px;
+}
+footer{ background-color: black; text-align: center;
+
+    padding-top: 2%;
+} 
+.white-color
+{
+    color: white;
+}
